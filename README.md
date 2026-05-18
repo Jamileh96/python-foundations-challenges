@@ -4,15 +4,15 @@ A curated collection of foundational programming challenges focused on algorithm
 
 ## Included Applications
 
-### 1. Blackjack Capstone Game (`blackjack.py`)
+### 1. Blackjack Capstone Game (`blackjack_main.py`)
 A full digital recreation of the classic casino card game, incorporating automated dealer rules and strategy constraints.
 * **Concepts Used:** Complex `while` game loops, list manipulation for drawing/tracking card decks, and conditional value algorithms (handling Aces dynamically as 1 or 11).
 
-### 2. Number Guessing Game (`number_guessing.py`)
+### 2. Number Guessing Game (`number_guessing_main.py`)
 A dynamic logic game where the user plays against a randomized number generator under specific difficulty levels.
 * **Concepts Used:** Global vs. local variable scope, function encapsulation, and decrementing flag variables to manage remaining user attempts dynamically.
 
-### 3. Interactive Calculator (`calculator.py`)
+### 3. Interactive Calculator (`calculator_main.py`)
 A terminal-based calculator capable of processing arithmetic functions sequentially while remembering prior calculation outputs.
 * **Concepts Used:** Dictionary mapping (linking operators like `+` and `-` directly to functional code blocks), recursion, and strategic control-loop placement to continue calculating with existing totals.
 
